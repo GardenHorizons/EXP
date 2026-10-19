@@ -1,0 +1,6 @@
+{
+  "name": "EXP-Plugins",
+  "description": "Zentrale Plattform für die Distribution, Verwaltung und Bewertung von Minecraft-Plugins im Modrinth- & CurseForge-Stil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
